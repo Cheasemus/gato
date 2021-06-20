@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">gato</string>
+    <string name="turn">¡Tu turno!</string>
+    <string name="p1Win">¡Ganó el jugador 1!</string>
+    <string name="p2Win">¡Ganó el jugador 2!</string>
+    <string name="tie">¡Empate!</string>
+    <string name="again">De nuevo</string>
+    <string name="exit">Salir</string>
+</resources>

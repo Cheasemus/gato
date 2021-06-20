@@ -1,0 +1,2 @@
+rootProject.name = "gato"
+include ':app'
